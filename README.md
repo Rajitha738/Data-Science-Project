@@ -24,7 +24,7 @@ This project aims to build a predictive model to help a bank identify which cust
 
 ### ✅ Task 1: Data Analysis
 - Verified data integrity and balance
-- Handled any missing values (if any)
+- Handled missing values
 - Checked target distribution
 - Feature scaling using StandardScaler
 - Applied train-test split
